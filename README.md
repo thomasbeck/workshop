@@ -17,7 +17,8 @@ This example will be used to showcase test driven development. The goal is to de
   * npm: ```npm config set https-proxy http://proxy:8080/```
 
 **Source**
-* log in to [GitHub](https://github.com/) and fork [https://github.com/thomasbeck/workshop.git](https://github.com/thomasbeck/workshop.git)
+* download the repository as ZIP file 
+* alternatively, log in to [GitHub](https://github.com/) and fork [https://github.com/thomasbeck/workshop.git](https://github.com/thomasbeck/workshop.git)
 * clone the repo ```git clone https://github.com/YourAccount/workshop.git```
 
 **App Dependencies**
